@@ -1,0 +1,16 @@
+body {
+    background-color: gray; 
+}
+#main{background-color:beige}
+
+@font-face{
+    font-family; 'courier new';
+    src:url(font/);
+    font-style: normal;
+    font-weight: 100;
+        
+}
+p{
+    font-family: courier new;
+    font-weight: 100;
+}
